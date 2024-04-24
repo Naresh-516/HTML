@@ -1,0 +1,13 @@
+.head{
+
+    display:inline-block;
+    background-color: rgb(132, 132, 247);
+    height:100%;
+    width:100%;
+
+}
+.main{
+    display: flex;
+    gap: 200px;
+    
+}
